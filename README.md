@@ -3,7 +3,7 @@
 
 ### 爱宁呦小说 - 后台服务
 - 使用Java、Jsoup等技术开发
-- 仓库传送门: [](https://gitee.com/jun-kenn/ai-ning-book.git)
+- 仓库传送门: [爱宁呦小说 - 后台服务](https://gitee.com/jun-kenn/ai-ning-book.git)
 
 ### 需知
 微信小程序提交开发版和正式版需要后台服务配置成https协议, 否则只有打开调试工具才可访问后台接口, 如需配置https协议请自行申请域名和证书在后台服务中进行配置, 配置方式在后台服务仓库中有说明, 或自行使用nginx代理成https的
