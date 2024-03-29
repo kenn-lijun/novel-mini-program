@@ -10,7 +10,8 @@
 
 ### 界面截图
 <img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093646.png" alt="描述文字" height="600">
-<img src="%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093720.png" alt="描述文字" height="600">
+<img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093720.png" alt="描述文字" height="600">
+<img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329095046.jpg" alt="描述文字" height="600">
 <img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093705.png" alt="描述文字" height="600">
 <img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093710.png" alt="描述文字" height="600">
 <img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093723.png" alt="描述文字" height="600">
