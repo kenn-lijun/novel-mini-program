@@ -1,0 +1,99 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+/* uni.scss */
+.search-input {
+  height: 70px;
+  background-color: white;
+}
+.search-history-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-end;
+  flex-wrap: wrap;
+}
+.tag-view {
+  margin-right: 10px;
+  padding: 5px;
+}
+.book-box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.slot-image {
+  display: block;
+  width: 50px;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  padding-right: 15px;
+}
+.slot-text-bookName {
+  font-size: 14px;
+  color: #6c2a21;
+}
+.slot-text-author {
+  font-size: 11px;
+  color: #6c2a21;
+}
+.uni-common-mt {
+  margin-top: 20px;
+  padding: 0px 10px;
+}
+.warp {
+  height: 100%;
+}
+.rect {
+  display: inline-block;
+  text-align: left;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+.bigImg {
+  width: 250px;
+}
+.slot-box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-bottom-color: #dddddd;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  padding: 15px 0;
+  height: 67px !important;
+}
+.shelfItem .slot-box {
+  height: 67px;
+}
+.fadeIn {
+  -webkit-animation-name: fadeOutDown;
+  animation-name: fadeOutDown;
+  -webkit-animation-duration: 2000ms;
+  animation-duration: 2000ms;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+@-webkit-keyframes fadeOutDown {
+0% {
+    opacity: 0;
+}
+100% {
+    opacity: 1;
+}
+}
+@keyframes fadeOutDown {
+0% {
+    opacity: 0;
+}
+100% {
+    opacity: 1;
+}
+}
+

@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "disableScroll": true,
+  "usingComponents": {
+    "uni-nav-bar": "/uni_modules/uni-nav-bar/components/uni-nav-bar/uni-nav-bar",
+    "uni-section": "/components/uni-section/uni-section",
+    "u-popup": "/uni_modules/uview-ui/components/u-popup/u-popup",
+    "uni-pagination": "/uni_modules/uni-pagination/components/uni-pagination/uni-pagination"
+  }
+}

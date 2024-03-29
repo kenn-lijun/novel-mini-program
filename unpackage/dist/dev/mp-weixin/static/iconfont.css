@@ -1,0 +1,37 @@
+@font-face {
+  font-family: "iconfont"; 
+  src: url('/static/iconfont.ttf') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zihao:before {
+  content: "\e632";
+}
+
+.icon-Word-add:before {
+  content: "\e623";
+}
+
+.icon-Word-minus:before {
+  content: "\e624";
+}
+
+.icon-wenzijianju:before {
+  content: "\e6b3";
+}
+
+.icon-bright1:before {
+  content: "\e686";
+}
+
+.icon-brightj2:before {
+  content: "\e685";
+}
+

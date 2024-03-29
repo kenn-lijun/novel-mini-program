@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+/* uni.scss */
+.slot-box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-bottom-color: #dddddd;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  padding: 15px 0;
+  height: 67px !important;
+}
+.slot-image {
+  display: block;
+  margin-right: 15px;
+  margin-left: 15px;
+  width: 50px;
+}
+.slot-text-bookName {
+  font-size: 14px;
+  color: #6c2a21;
+}
+.slot-text-author {
+  font-size: 11px;
+  color: #6c2a21;
+}
+
