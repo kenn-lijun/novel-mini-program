@@ -10,14 +10,13 @@
 
 ### 界面截图
 <img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093646.png" alt="描述文字" height="600">
-![输入图片说明](static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093646.png)
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093720.png)
-![输入图片说明](static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093705.png)
-![输入图片说明](static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093710.png)
-![输入图片说明](static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093723.png)
-![输入图片说明](static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093726.png)
-![输入图片说明](static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093713.png)
-![输入图片说明](static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093716.png)
+<img src="%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093720.png" alt="描述文字" height="600">
+<img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093705.png" alt="描述文字" height="600">
+<img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093710.png" alt="描述文字" height="600">
+<img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093723.png" alt="描述文字" height="600">
+<img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093726.png" alt="描述文字" height="600">
+<img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093713.png" alt="描述文字" height="600">
+<img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093716.png" alt="描述文字" height="600">
 
 ### 免责声明
 - 本项目提供的爬虫源代码仅用学习，请勿用于商业盈利。
