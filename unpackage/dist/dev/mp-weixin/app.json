@@ -1,0 +1,20 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/booklist/booklist",
+        "pages/bookInfo/bookInfo",
+        "pages/browse/browse",
+        "pages/read/read",
+        "pages/read/read2",
+        "pages/set/set"
+    ],
+    "subPackages": [],
+    "window": {
+        "navigationBarTextStyle": "black",
+        "navigationBarBackgroundColor": "#6d6d6d",
+        "backgroundColor": "#F8F8F8"
+    },
+    "lazyCodeLoading": "requiredComponents",
+    "usingComponents": {},
+    "sitemapLocation": "sitemap.json"
+}

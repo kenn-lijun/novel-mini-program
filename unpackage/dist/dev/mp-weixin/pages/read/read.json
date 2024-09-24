@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-nav-bar": "/uni_modules/uni-nav-bar/components/uni-nav-bar/uni-nav-bar",
+    "u-popup": "/uni_modules/uview-ui/components/u-popup/u-popup",
+    "u-slider": "/uni_modules/uview-ui/components/u-slider/u-slider",
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons"
+  }
+}

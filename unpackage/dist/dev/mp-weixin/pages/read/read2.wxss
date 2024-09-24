@@ -1,0 +1,107 @@
+
+.container {
+	height: 100%;
+	overflow: hidden;
+	position: relative;
+}
+.container .header {
+	height: 20px;
+	margin: 0 20px;
+	line-height: 20px;
+	font-size: 12px;
+	display: flex;
+	justify-content: space-between;
+}
+.chapter {
+	width: 70%;
+	font-family: '楷体';
+	/* color: #d19766; */
+	font-size: 15px;
+	word-wrap: break-word;
+	/*强制换行*/
+	overflow: hidden;
+	/*超出隐藏*/
+	text-overflow: ellipsis;
+	/*隐藏后添加省略号*/
+	white-space: nowrap;
+	/*强制不换行*/
+}
+.content .content-text {
+	font-family: '楷体';
+}
+.container .content {
+	display: block;
+	overflow-x: hidden;
+	box-sizing: border-box;
+	-webkit-column-gap: 60rpx;
+	        column-gap: 60rpx;
+	padding: 20rpx 18rpx 0 42rpx;
+	position: relative;
+}
+.leftButton {
+	position: relative;
+	float: left;
+	left: 70px;
+}
+.rightButton {
+	position: relative;
+	float: right;
+	right: 70px;
+}
+.popupItem {
+	height: 38px;
+	padding: 15px;
+}
+.popupItemPosition {
+	height: 38px;
+	position: relative;
+	float: left;
+}
+.popupItemTitle {
+	color: #655a5a;
+	left: 20px;
+	width: 20%;
+	line-height: 38px;
+}
+.popupItemProgress {
+	width: 70%;
+}
+.popupItemOther {
+	width: 20%;
+}
+.popupItemIcon {
+	width: 10%;
+	left: 10px;
+	top: 25%
+}
+.styleButton {
+	position: relative;
+	left: 15px;
+	height: 30px;
+	width: 30px;
+	background-color: #343232;
+	border: #343232; 
+	border-radius: 2px;
+}
+.styleButton1 {
+	background-color: #343232;
+	border: #343232;
+}
+.styleButton2 {
+	background-color: #826f51;
+	border: #826f51;
+}
+.styleButton3 {
+	background-color: #f8f8f2;
+	border: #f8f8f2;
+}
+.styleButton4 {
+	background-color: #47473a;
+	border: #47473a;
+}
+.styleIcon {
+	position: relative;
+	top: 25%;
+	left: 25%;
+}
+

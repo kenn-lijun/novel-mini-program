@@ -1,0 +1,68 @@
+{
+	// 每个可显示的页面，都必须在 pages.json 中注册
+	// page节点下第一个页面就是首页
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				// "navigationBarTitleText": "标题"
+				"navigationStyle": "custom"
+				// "disableScroll": true
+			}
+		},
+		{
+			"path": "pages/booklist/booklist",
+			"style": {
+				// "navigationBarTitleText": "标题"
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/bookInfo/bookInfo",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				"disableScroll": true
+			}
+
+		},
+		{
+			"path": "pages/browse/browse",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/read/read",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/read/read2",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				"disableScroll": true
+			}
+		},
+		{
+			"path": "pages/set/set",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		// "navigationBarTitleText": "标题",
+		"navigationBarBackgroundColor": "#6d6d6d",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	}
+}
