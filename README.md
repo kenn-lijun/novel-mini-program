@@ -10,15 +10,15 @@
 - 将requestInterceptors.js中的signKey修改与后台服务中yml文件中kenn:signKey一致
 
 ### 界面截图
-<img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093646.png" alt="描述文字" height="600">
-<img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093720.png" alt="描述文字" height="600">
-<img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329095046.jpg" alt="描述文字" height="600">
-<img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093705.png" alt="描述文字" height="600">
-<img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093710.png" alt="描述文字" height="600">
-<img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093723.png" alt="描述文字" height="600">
-<img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093726.png" alt="描述文字" height="600">
-<img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093713.png" alt="描述文字" height="600">
-<img src="static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093716.png" alt="描述文字" height="600">
+<img src="https://gitee.com/jun-kenn/ai-ning-book-ui/blob/master/static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093646.png" alt="描述文字" height="600">
+<img src="https://gitee.com/jun-kenn/ai-ning-book-ui/blob/master/static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093720.png" alt="描述文字" height="600">
+<img src="https://gitee.com/jun-kenn/ai-ning-book-ui/blob/master/static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329095046.jpg" alt="描述文字" height="600">
+<img src="https://gitee.com/jun-kenn/ai-ning-book-ui/blob/master/static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093705.png" alt="描述文字" height="600">
+<img src="https://gitee.com/jun-kenn/ai-ning-book-ui/blob/master/static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093710.png" alt="描述文字" height="600">
+<img src="https://gitee.com/jun-kenn/ai-ning-book-ui/blob/master/static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093723.png" alt="描述文字" height="600">
+<img src="https://gitee.com/jun-kenn/ai-ning-book-ui/blob/master/static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093726.png" alt="描述文字" height="600">
+<img src="https://gitee.com/jun-kenn/ai-ning-book-ui/blob/master/static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093713.png" alt="描述文字" height="600">
+<img src="https://gitee.com/jun-kenn/ai-ning-book-ui/blob/master/static/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240329093716.png" alt="描述文字" height="600">
 
 ### 免责声明
 - 本项目提供的爬虫源代码仅用学习，请勿用于商业盈利。
